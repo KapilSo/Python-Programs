@@ -1,0 +1,11 @@
+s = {12, 32, 3, 45, 60, 60, 60, "Harry"}
+print(s, type(s))
+s.add(781)
+print(s, type(s))
+print(len(s))
+s.remove(32)
+print(s)
+s.pop()
+print(s)
+s.clear()
+print(s)
