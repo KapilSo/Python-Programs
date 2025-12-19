@@ -1,0 +1,7 @@
+a = (1, 2, 5, 6, True, "Harry")
+print(a)
+no = a.count(5)
+print(no)
+i = a.index(6)
+print(i)
+print(len(a))
